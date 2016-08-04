@@ -1,2 +1,1 @@
-# hello-world
-starting point
+system.out.println("hello world");
